@@ -1,0 +1,8 @@
+prefix=/home/a/catkin_ws/install
+
+Name: smallbahey
+Description: Description of smallbahey
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -7,7 +7,7 @@ In this project i used moveit and rosserial to control and simulate a 4DOF robot
 
 Firstly you need to build the catkin workspace <br>
 ```
-cd catkin_wd
+cd catkin_ws
 catkin_make
 ```
 

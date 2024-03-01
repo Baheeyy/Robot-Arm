@@ -6,8 +6,10 @@ In this project i used moveit and rosserial to control and simulate a 4DOF robot
 ## Running the code
 
 Firstly you need to build the catkin workspace <br>
-`cd catkin_wd`
-`catkin_make`
+```
+cd catkin_wd
+catkin_make
+```
 
 To start Rviz and begin simulating:<br>
 ```
